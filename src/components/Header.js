@@ -1,5 +1,6 @@
 'use client';
 
+import { Span } from 'next/dist/trace';
 import Link from 'next/link';
 
 export default function Header() {
@@ -9,6 +10,7 @@ export default function Header() {
                 <Link href="/" className="text-xl font-bold tracking-wide">
                     DiMod Clean
                 </Link>
+                <Span className="hidden md:inline-block">Para o amor da minha vida</Span>
                 <nav className="hidden md:block">
                     <ul className="flex space-x-6">
                         <li><Link href="/sobre" className="hover:text-blue-200 transition">Sobre</Link></li>

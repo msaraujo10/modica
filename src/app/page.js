@@ -1,4 +1,5 @@
 import WhatsAppButton from '@/components/WhatsAppButton';
+import { Span } from 'next/dist/trace';
 
 export default function Home() {
   return (
@@ -13,7 +14,7 @@ export default function Home() {
             Serviço rápido, impecável e confiável para anfitriões que querem manter 5 estrelas.
           </p>
           <a
-            href="https://wa.me/5521999999999"
+            href="https://wa.me/5521983367331"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-block bg-green-500 hover:bg-green-600 text-white font-bold py-3 px-8 rounded-lg text-lg transition"
@@ -22,6 +23,7 @@ export default function Home() {
           </a>
         </div>
       </section>
+
 
       {/* Benefícios */}
       <section className="py-12 bg-white">
