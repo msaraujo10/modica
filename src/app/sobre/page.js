@@ -5,7 +5,7 @@ export default function Sobre() {
                 <h1 className="text-3xl font-bold text-blue-900 mb-6">Sobre a DiMod Clean</h1>
                 <div className="prose prose-blue max-w-3xl">
                     <p>
-                        Fundada por <strong>Paula Cristina Di Modica</strong>, a DiMod Clean nasceu do cuidado
+                        Fundada por <strong>Paula Cristina</strong>, a DiMod Clean nasceu do cuidado
                         e atenção que Paula dedica aos seus próprios apartamentos no Airbnb em Copacabana.
                     </p>
                     <p>
