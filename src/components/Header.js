@@ -20,7 +20,7 @@ export default function Header() {
                     </ul>
                 </nav>
                 <a
-                    href="https://wa.me/5521999999999"
+                    href="https://wa.me/5521983367331"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="md:hidden bg-green-500 text-white px-3 py-1 rounded text-sm"
